@@ -1,7 +1,7 @@
-# Analysis of passenger preferences and the impact of external factors on ridesharing
+# Analysis of passenger preferences and the impact of external factors on shared trips
 
 ## Objective
-Zuber is a new ridesharing company launching in Chicago.
+Zuber is a new shared trips company launching in Chicago.
 
 The objective is to find patterns in the available information. To understand passenger preferences and the impact of external factors on trips.
 
